@@ -1,0 +1,2 @@
+py-dom-xpath
+requests
